@@ -225,7 +225,7 @@
             "name": "TV-丫丫点播",
             "api": "https://cj.yayazy.net/api.php/provide/vod",
             "detail": "https://cj.yayazy.net"
-        }
+        },
         "26_91Amd": {
             "name": "AV-91麻豆",
             "api": "https://91md.me/api.php/provide/vod",
