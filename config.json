@@ -211,11 +211,6 @@
             "api": "https://ckzy.me/api.php/provide/vod",
             "detail": "https://ckzy.me"
         },
-        "61_lbzy": {
-            "name": "TV-乐播资源",
-            "api": "https://lbapi9.com/api.php/provide/vod",
-            "detail": ""
-        },
         "76_nndb": {
             "name": "TV-牛牛点播",
             "api": "https://api.niuniuzy.me/api.php/provide/vod",
@@ -320,6 +315,11 @@
             "name": "AV-黄AV资源",
             "api": "https://www.pgxdy.com/api/json.php",
             "detail": "https://www.pgxdy.com"
+        },
+        "61_lbzy": {
+            "name": "AV-乐播资源",
+            "api": "https://lbapi9.com/api.php/provide/vod",
+            "detail": ""
         }
     }
 }
