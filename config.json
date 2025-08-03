@@ -36,11 +36,6 @@
             "api": "http://ffzy5.tv/api.php/provide/vod",
             "detail": "http://ffzy5.tv"
         },
-        "59_ffzy": {
-            "name": "TV-非凡资源",
-            "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-            "detail": "https://cj.ffzyapi.com"
-        },
         "6_Tgszy": {
             "name": "TV-光速资源",
             "api": "https://api.guangsuapi.com/api.php/provide/vod",
